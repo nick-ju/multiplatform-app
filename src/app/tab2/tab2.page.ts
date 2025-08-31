@@ -8,7 +8,7 @@ import { ExploreContainerComponent } from '../explore-container/explore-containe
   styleUrls: ['tab2.page.scss'],
   imports: [IonHeader, IonToolbar, IonTitle, IonContent, ExploreContainerComponent]
 })
-export class Tab2Page {
+export class TabEvents {
 
   constructor() {}
 
