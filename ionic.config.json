@@ -1,0 +1,7 @@
+{
+  "name": "mimo-brecho",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
